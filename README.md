@@ -25,7 +25,7 @@
 
 # Sobre o Projeto
 
-- Programa básico, calcule a area do trapézio, inserindo entrada de dado, e execulta o resultado na tela.
+- Programa básico, testando tipos de variaveis,no console, e execulta o resultado na tela.
 - Projeto foi implemetado no console.
 - IDE Eclipse
 
